@@ -1,0 +1,9 @@
+/data/*
+
+/__pycache__/*
+
+/lightning_logs/*
+
+*.tar.gz
+*.zip
+*pyc
